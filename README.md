@@ -1,6 +1,4 @@
-# FireHostRedux Minecraft Resources
-FireHostRedux paintings and custom resources
+# Copper Sunset
+FireHostRedux UI rewrite in a copper theme.
 
-All rights respective of their creators.
-Custom dark user interface themes by comicaldeathcap, fartsy, and ribbons.
-Weather2 Cloud textures by Fartsy.
+Designed by @ProfessorFartsalot, some icon changes by @xRibbons
