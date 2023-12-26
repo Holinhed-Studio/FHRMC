@@ -1,6 +1,4 @@
-# FireHostRedux Minecraft Resources
-FireHostRedux paintings and custom resources
+# Devil Trigger for Mrbt0907 Custom Death Messages
+Allows devil trigger to be played during killstreaks.
 
-All rights respective of their creators.
-Custom dark user interface themes by comicaldeathcap, fartsy, and ribbons.
-Weather2 Cloud textures by Fartsy.
+Designed by @ProfessorFartsalot
