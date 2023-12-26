@@ -1,6 +1,6 @@
-# FireHostRedux Minecraft Resources
-FireHostRedux paintings and custom resources
+# FireHostRedux Custom Paintings
+Custom paintings on the FHR modded serever.
 
 All rights respective of their creators.
-Custom dark user interface themes by comicaldeathcap, fartsy, and ribbons.
-Weather2 Cloud textures by Fartsy.
+
+Images have been supplied by the FHR community.
